@@ -1,0 +1,34 @@
+{"Employees":[
+    {
+    "id":"1","name":"Deepa","designation":"Vice Presitent","age":"20","address":"507-20th Ave"
+  },
+  {
+   "id":"2","name":"Deepika","designation":"Developer","age":"30","address":"14 Garrett Hill"
+  },
+  {
+    "id":"3","name":"Anitha", "designation":"Manager","age":"27","address":"7 Houndstooth"
+  },
+  {
+    "id":"4", "name":"Nancy","designation":"Accountant","age":"25","address":"11th Ave Hollow"
+  },
+  {
+    "id":"5","name":"Buchan","designation":"Human Resource","age":"32","address":"123 Main Street NewYork"
+  },
+  {
+    "id":"6","name":"James","designation":"Chief Engineer","age":"38","address":"50 Oakland Ave"
+  },
+  {
+    "id":"7","name":"Dev",
+    "designation":"Security","age":"26","address":"711 Nulla St"
+  },
+  {
+    "id":"8","name":"Benjamin","designation":"Driver","age":"30","address":"Rolling Hills Georgia"
+  },
+  {
+    "id":"9","name":"William","designation":"Accountant","age":"34","address":"66 Green Bay Indiana"
+  },
+  {
+    "id":"10","name":"Nithya","designation":"Chief Engineer","age":"31","address":"313 Pellentesque Ave"
+  }]
+}
+  

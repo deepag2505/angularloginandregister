@@ -1,0 +1,25 @@
+<html>
+<body>
+  <button class="btncancel"(click)="logout()">Logout</button>
+<div class="filter">
+  
+  <table>
+    <tr><th>ID</th>
+  <th>Name</th>
+<th>Designation</th>
+<th>Age</th>
+<th>Address</th>
+</tr>
+<tr *ngFor="let datas of data" >
+  <td>{{datas.id}}</td> 
+  <td>{{datas.name}}</td>
+  <td>{{datas.designation}}</td>
+  <td>{{datas.age}}</td>
+  <td>{{datas.address}}</td>
+  </tr>
+</table>
+</div>
+
+    </body>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    </html>
